@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @poindexter88
 - 👀 I’m interested in all things cyber
 - 🌱 I’m currently learning Pentesting and Cyber Threat Emulation
-- 💞️ I’m looking to collaborate to help gain more knowledge
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
 
 <!---
